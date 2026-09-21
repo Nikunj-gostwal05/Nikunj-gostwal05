@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Nikunj 👋
 
+### Frontend Developer from India
 
-**Nikunj-gostwal05/Nikunj-gostwal05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+17yo • 1+ year building for the web • Self-taught
 
-Here are some ideas to get you started:
+I build modern, responsive and interactive websites.
 
-- 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Currently learning **React + Tailwind CSS** and working with
+**JavaScript, GSAP & ScrollTrigger**.
 
+I enjoy turning ideas into real projects, experimenting with UI,
+and figuring things out by building.
+
+### 🛠️ Tech Stack
+
+HTML • CSS • JavaScript • React • Tailwind CSS • GSAP
+
+### 🚀 Currently
+
+Learning React deeply  
+Building real-world projects  
+Working towards freelance/client work
+
+### ⚡ Fun fact
+
+I learn best when I'm building something instead of just watching tutorials.
